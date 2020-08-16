@@ -9,6 +9,6 @@
  ![link](images/commands_example.png)
    
    
- ###IMPORTANT NOTE!  
+ ### IMPORTANT NOTE!  
  The scripts are pointing to the default installation dir of the AdoptOpenJDK version of Java JDK.  
  For any other version of JDKs - point the scripts to the right folders.
